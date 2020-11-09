@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka/config-server/config-server.iml" filepath="$PROJECT_DIR$/springboot-eureka/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka/gallery/gallery.iml" filepath="$PROJECT_DIR$/springboot-eureka/gallery/gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka/image/image.iml" filepath="$PROJECT_DIR$/springboot-eureka/image/image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka/server/server.iml" filepath="$PROJECT_DIR$/springboot-eureka/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka/springboot-config-server.iml" filepath="$PROJECT_DIR$/springboot-eureka/springboot-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-eureka.iml" filepath="$PROJECT_DIR$/.idea/springboot-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-eureka/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/springboot-eureka/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>

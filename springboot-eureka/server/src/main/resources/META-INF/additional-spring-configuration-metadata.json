@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.application.uri",
+      "type": "java.lang.String",
+      "description": "Description for spring.application.uri."
+  }
+] }
